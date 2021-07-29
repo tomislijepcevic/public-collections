@@ -12,10 +12,8 @@ TemporalAvailability: Europe  November 2016 - ongoing, Global January 2017  - on
 UpdateFrequency: New Sentinel data are added regularly, usually within few hours after they are available on Copernicus Hub.
 BandInformation: Information about [bands and data](https://docs.sentinel-hub.com/api/latest/data/sentinel-2-l2a/#available-bands-and-data)
 Contact: https://forum.sentinel-hub.com/c/euro-data-cube/25
-Provider:
-  - name: Sentinel Hub
-  - description"[Copernicus](https://copernicus.eu/)"
-ManagedBy: '[Sentinel Hub](https://www.sentinel-hub.com/)'
+Provider: [Copernicus](https://copernicus.eu/)
+ManagedBy: [Sentinel Hub](https://www.sentinel-hub.com/)
 Tags:
   - xcube
   - sentinel hub
